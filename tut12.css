@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h4{
+            color: brown;            
+            background-color: brown;
+            font-size: 90px;
+           
+        } 
+        div{
+            color:darkblue;
+            background-color: #c5c9c9;
+            border: cornflowerblue;
+            border-style: double;
+            border-radius: 18px;
+            width: 548px;
+            font-size: 25px;
+            padding-left: 4px;
+            padding-top: 44px;
+            padding-right: 44px;
+            padding-bottom: 44px;
+            margin: auto;
+        }
+        p{
+            color:rgb(236, 11, 169);
+            background-color: rgb(29, 6, 27);
+            border: rgb(184, 16, 235);
+            border-style: double;
+            border-radius: 4px;
+            font-size: large;
+        }
+        a:hover{
+            background-color:rgb(207, 76, 33);
+        }
+        button:hover{
+            background-color: darksalmon;
+        }
+        body{
+            background-color: rgb(233, 221, 117);
+        }
+        
+    </style>
+</head>
+<body>
+    
+</body>
+</html>
